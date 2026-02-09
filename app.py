@@ -1,8 +1,7 @@
 import streamlit as st
-import cv2
 import numpy as np
 from ultralytics import YOLO
-from collections import deque
+import cv2
 
 # ==============================
 # STREAMLIT PAGE CONFIG
